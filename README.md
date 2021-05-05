@@ -22,6 +22,14 @@ I love mobile programming and astronomy, trying to learn more
 ![](https://img.shields.io/badge/IDE-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
 
+```kotlin
+fum main(){
+
+    print("Hello World!")
+
+}
+```
+
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabashi98&bg_color=20,5f2c82,49a09d&title_color=fff&text_color=fff&count_private=true"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=alirezabashi98&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
