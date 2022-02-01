@@ -21,6 +21,7 @@ I love mobile programming and astronomy, trying to learn more
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/IDE-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/lang-flutter-informational?style=flat&logo=mysql&logoColor=blue&color=informational)
 
 main.kt
 ```kotlin
