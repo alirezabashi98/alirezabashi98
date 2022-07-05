@@ -17,11 +17,11 @@ I love mobile programming and astronomy, trying to learn more
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
-![](https://img.shields.io/badge/lang-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
-![](https://img.shields.io/badge/lang-flutter-informational?style=flat&logo=flutter&logoColor=blue&color=informational)
+![](https://img.shields.io/badge/IDE-vsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Fram-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=informational)
 
 main.kt
 ```kotlin
