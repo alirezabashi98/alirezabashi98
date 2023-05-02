@@ -1,38 +1,30 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,<a href="https://github.com/alirezabashi98"> I'm Alirezaba Bashi </a>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Alirezaba Bashi
 
-<img align="center" alt="wallpaper" src="https://github.com/alirezabashi98/alirezabashi98/raw/main/images/android.gif"/>
+Hello, my name is Alireza Bosme and I was born in 2001. I love computers, technology and astronomy. I started programming a few years ago. I love programming.
 
+# 🏖️ About Me :
+* 🚀  I’m currently working on Mobile Development.
+* 👨‍💻  All of my projects are available at [here](https://github.com/alirezabashi98?tab=repositories).
+* 💬  Ask me about Android, and Flutter.
+* 📫  How to reach me alirezabashi98@gmail.com
+* 📄  Know about my experiences.
 
-I love mobile programming and astronomy, trying to learn more
+## 🌐 Socials
+[![Telegram](https://img.shields.io/badge/-Telegram-0077f5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/alirezabashi98)
+[![Instagram](https://img.shields.io/badge/-instagram-ff1111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alirezabashi98)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alireza-bashi-450589190/)
 
-<a href="https://t.me/alirezabashi_98">
-  <img align="left" alt="AlirezaBashi98" src="https://img.shields.io/badge/telegram-informational?style=flat&logo=telegram&logoColor=white&color=informational" />
-</a>
-<a href="https://instagram.com/alirezabashi_98">
-  <img align="left" alt="AlirezaBashi98" src="https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=informational" />
-</a>
-<br>
+# 💻 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 🔧 My Favorite Technologies
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-vsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
-![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Fram-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=informational)
-
-main.kt
-```kotlin
-fum main(){
-
-    print("Hello World!")
-
-}
-```
+# 📊 GitHub Stats :
 
 <div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabashi98&bg_color=20,5f2c82,49a09d&title_color=fff&text_color=fff&count_private=true"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=alirezabashi98&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabashi98&bg_color=20,5f2c82,49a09d&title_color=fff&text_color=fff&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=alirezabashi98&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
 </div>
