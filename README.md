@@ -24,7 +24,5 @@ Hello, my name is Alireza Bosme and I was born in 2001. I love computers, techno
 
 # 📊 GitHub Stats :
 
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabashi98&bg_color=20,5f2c82,49a09d&title_color=fff&text_color=fff&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api?username=alirezabashi98&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezabashi98&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabashi98&show_icons=true&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
