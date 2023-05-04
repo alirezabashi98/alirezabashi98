@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Alirezaba Bashi
 
-my name is Alireza Bashi and I was born in 2001. I love computers, technology and astronomy. I started programming a few years ago. I love programming.
+my name is Alireza Bashi and I was born in 2002. I love computers, technology and astronomy. I started programming a few years ago. I love programming.
 
 # 🏖️ About Me :
 * 🚀  I’m currently working on Mobile Development.
