@@ -7,7 +7,6 @@ my name is Alireza Bashi and I was born in 2001. I love computers, technology an
 * 👨‍💻  All of my projects are available at [here](https://github.com/alirezabashi98?tab=repositories).
 * 💬  Ask me about Android, and Flutter.
 * 📫  How to reach me alirezabashi98@gmail.com
-* 📄  Know about my experiences.
 
 ## 🌐 Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-0077f5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/alirezabashi98)
